@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\massi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-5d009df5f1dc65e91c55278b5eaac5cf508424ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9562da4a2e3621bad6ae9dd4fdd4ce4a3b01308c.jar" />
+    </item>
+    <item
+        jar="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\pre-dexed\debug\classes-b91facd44bffb0ae8f844c3312716ad6078cf2da.jar" />
+    </item>
+    <item
+        jar="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\massi\AndroidStudioProjects\Prova\app\build\intermediates\pre-dexed\debug\classes-d943d969e75e9daa815e89c30926c3c8bf6f9b56.jar" />
+    </item>
+
+</items>
